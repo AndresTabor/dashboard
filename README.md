@@ -35,9 +35,9 @@ Este proyecto es un dashboard construido con Next.js, TypeScript y TailwindCSS. 
 
 ## Uso
 
-- Regístrate como nuevo usuario o inicia sesión con las credenciales de prueba:
-  - Email: `admin@admin.com`
-  - Contraseña: `admin`
+- Inicia sesión con las credenciales de prueba:
+  - Email: `user@nextmail.com`
+  - Contraseña: `123456`
 - Navega por las diferentes secciones del dashboard: usuarios, clientes, facturas e ingresos.
 - Utiliza el formulario de contacto para enviar mensajes.
 - Despliega el menú de usuario para acceder a la configuración y cerrar sesión.
